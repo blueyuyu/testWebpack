@@ -1,0 +1,26 @@
+.main{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: url(../../asset/img/R.jpg) center center;
+    background-size: cover;
+}
+.form{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    background-color: #4c9ae7;
+    border-radius: 5px;
+}
+
+.item-btn{
+    display: flex;
+   
+}
+
+.login-btn{
+    width: 60px;
+    height: 30px;
+}
